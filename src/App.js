@@ -127,5 +127,4 @@ const Right3 = (props) => {
 
 }
 
-
 export default App;
